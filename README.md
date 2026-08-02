@@ -302,9 +302,7 @@ Simulation sequence:
 
 ## Waveform
 
-```
 ![UART Top Waveform](screenshots/uart_top_waveform.png)
-```
 
 The simulation confirms:
 
