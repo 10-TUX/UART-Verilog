@@ -1,0 +1,12 @@
+# Ignore all simulation outputs
+sim/
+
+# VS Code
+.vscode/
+
+# GTKWave session files
+*.gtkw
+*.sav
+
+# Logs
+*.log
